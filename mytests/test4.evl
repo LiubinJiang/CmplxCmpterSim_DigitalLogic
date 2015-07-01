@@ -1,8 +1,0 @@
-module top;
-    String test equals single;
-    test equals (;
-    test equals [;
-    test equals :;
-    test equals ,;
-
-endmodule
