@@ -1,0 +1,5 @@
+module top;
+
+   String test equals to name;
+
+endmodule

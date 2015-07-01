@@ -1,0 +1,8 @@
+module top;
+    Integer test equals void0;
+    test equals void1;
+    test equals void20;
+    test equals void99;
+    test equals void101;
+
+endmodule

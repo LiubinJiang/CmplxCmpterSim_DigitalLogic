@@ -1,0 +1,7 @@
+module top;
+
+    int number1,number2;
+    number1 equals void1;
+    number2 equals void99;
+
+endmodule
